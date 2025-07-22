@@ -1,16 +1,9 @@
-# pokedia
+Images
 
-A new Flutter project.
+<img width="294" height="610" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/fe70b63a-059b-4978-ae4c-d1bdba333392" />
 
-## Getting Started
+<img width="310" height="608" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/23a68e2e-13b5-477c-b439-772ea4a8a144" />
 
-This project is a starting point for a Flutter application.
+<img width="323" height="609" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1be2b85a-7914-43ea-8a6b-43c6c44d9356" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="299" height="617" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/64755461-50e9-4fb2-9148-bc16450afed1" />
