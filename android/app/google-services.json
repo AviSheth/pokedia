@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "364043023162",
+    "project_id": "pokipedia-fdd97",
+    "storage_bucket": "pokipedia-fdd97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364043023162:android:cc68769fe6b5d882961603",
+        "android_client_info": {
+          "package_name": "com.example.pokedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364043023162-q0mf1jvqvigboeh7nd87roe6ipr345nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrSbPwPU8Zg8Z6lo3jywC0xHA2vD_EMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364043023162-q0mf1jvqvigboeh7nd87roe6ipr345nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364043023162-76epfft8c78tc7vqqs1vc20uhiaa0r4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pokedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
